@@ -1,1 +1,4 @@
 Dockerfile
+_site
+_vendor
+.sass-cache
