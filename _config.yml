@@ -23,7 +23,14 @@ resume_contact_address:         "Amsterdam, the Netherlands"
 resume_header_contact_info:     "Amsterdam, the Netherlands • hello@issakhoury.me"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a hard-working and experienced Software Engineer and Cloud Architect focused on delivering high quality, efficient, and reliable solutions that help make the right impact. My main interest is in the development of cloud native services that help in extracting value out of business data or automating a business process. My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product. Therefore, I believe in cross-functional agile teams working together in an end-to-end delivery process and constantly pushing out value while adhering to good software development practices.</p>"
+resume_header_intro: "<p>I am a passionate Software Engineer and Cloud Architect focused on delivering high quality,
+efficient, and reliable solutions that aim to deliver on value. I find interest in designing cloud
+native services that help in extracting value out of business data or automating a business
+process.</br> My priority in any software project is delivering features to the customer that help them make
+the right decisions and impact in their organistion. I strive to implement a workflow for
+incremental delivery of value along with continuous evaluation and improvement of the
+product. I also believe in cross-functional agile teams that work together in an end-to-end
+process to constantly deliver value while adhering to good software development practices.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
