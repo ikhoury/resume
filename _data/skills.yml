@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Cloud Architecture & Solutions
+  description: Extensive experience in designing and implementing cloud-native solutions across AWS, Azure, and Google Cloud, with a focus on scalability, reliability, and cost optimization.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Data Engineering & Analytics
+  description: Proficient in data mesh, data lakes, and machine learning platform development, enabling data-driven decision-making.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: DevOps & Automation
+  description: Expertise in automating infrastructure using Terraform, Ansible, and CI/CD pipelines, embracing infrastructure as code.
+
+- skill: Software Development & Design
+  description: Strong background in Java, Python, and microservices architecture, with a focus on building scalable, maintainable systems.
+
+- skill: Stakeholder Management & Technical Leadership
+  description: Experienced in leading cross-functional teams, providing technical guidance, and aligning technology strategies with business goals.
+
+- skill: Security & Compliance
+  description: Knowledgeable in zero-trust security models, cloud governance, and network architecture to ensure robust protection and regulatory compliance.
