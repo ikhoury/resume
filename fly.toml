@@ -17,11 +17,14 @@ processes = []
   internal_port = 80
   processes = ["app"]
   protocol = "tcp"
+  auto_start_machines = true
+  auto_stop_machines = "suspend"
+  min_machines_running = 1
   script_checks = []
 
   [services.concurrency]
-    hard_limit = 25
-    soft_limit = 20
+    hard_limit = 200
+    soft_limit = 100
     type = "connections"
 
   [[services.ports]]
